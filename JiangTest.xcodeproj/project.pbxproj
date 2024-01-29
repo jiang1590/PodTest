@@ -17,6 +17,7 @@
 		18A3B7962B67C6CC00BEC7F5 /* JiangTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18A3B7952B67C6CC00BEC7F5 /* JiangTestTests.m */; };
 		18A3B7A02B67C6CC00BEC7F5 /* JiangTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18A3B79F2B67C6CC00BEC7F5 /* JiangTestUITests.m */; };
 		18A3B7A22B67C6CC00BEC7F5 /* JiangTestUITestsLaunchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18A3B7A12B67C6CC00BEC7F5 /* JiangTestUITestsLaunchTests.m */; };
+		18A3B7AF2B67CA7800BEC7F5 /* JiangeTestPod.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 18A3B7AE2B67CA7800BEC7F5 /* JiangeTestPod.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		18A3B79B2B67C6CC00BEC7F5 /* JiangTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JiangTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18A3B79F2B67C6CC00BEC7F5 /* JiangTestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JiangTestUITests.m; sourceTree = "<group>"; };
 		18A3B7A12B67C6CC00BEC7F5 /* JiangTestUITestsLaunchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JiangTestUITestsLaunchTests.m; sourceTree = "<group>"; };
+		18A3B7AE2B67CA7800BEC7F5 /* JiangeTestPod.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = JiangeTestPod.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 		18A3B76D2B67C6C900BEC7F5 = {
 			isa = PBXGroup;
 			children = (
+				18A3B7AE2B67CA7800BEC7F5 /* JiangeTestPod.podspec */,
 				18A3B7782B67C6C900BEC7F5 /* JiangTest */,
 				18A3B7942B67C6CC00BEC7F5 /* JiangTestTests */,
 				18A3B79E2B67C6CC00BEC7F5 /* JiangTestUITests */,
@@ -241,6 +244,7 @@
 			files = (
 				18A3B7892B67C6CB00BEC7F5 /* LaunchScreen.storyboard in Resources */,
 				18A3B7862B67C6CB00BEC7F5 /* Assets.xcassets in Resources */,
+				18A3B7AF2B67CA7800BEC7F5 /* JiangeTestPod.podspec in Resources */,
 				18A3B7842B67C6C900BEC7F5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
