@@ -18,5 +18,8 @@
     // Do any additional setup after loading the view.
 }
 
+- (void)change {
+    NSLog(@"你好啊");
+}
 
 @end
