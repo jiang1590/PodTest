@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "JiangeTestPod"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "一段描述性文字"
 
   # This description is used to generate tags and improve search results.
